@@ -1,0 +1,42 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 32ca58b6-3fe3-3bee-28e6-786f7ebda5aa
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: aab7ab06-840e-dd80-89e6-b48b28de07a5
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 6947b4d2-b0d7-3d15-9ba3-638f887f2509
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: fd67230c-637e-4133-bfc5-07ab35776015
+  name: Video Lectures
+  pageRef: /pages/video-lectures/
+  weight: 40
+- identifier: 71777a85-28aa-183c-9060-b392a1839df5
+  name: Basic Concepts
+  pageRef: /pages/video-lectures/part-1
+  parent: fd67230c-637e-4133-bfc5-07ab35776015
+  weight: 50
+- identifier: 47c9328d-422d-9674-23c3-84164ff51d36
+  name: Quantum Physics in One-dimensional Potentials
+  pageRef: /pages/video-lectures/part-2
+  parent: fd67230c-637e-4133-bfc5-07ab35776015
+  weight: 60
+- identifier: 8d915edd-a014-8775-8e5f-16d04eeccd76
+  name: One-dimensional Scattering, Angular Momentum & Central Potentials
+  pageRef: /pages/video-lectures/part-3
+  parent: fd67230c-637e-4133-bfc5-07ab35776015
+  weight: 70
+- identifier: 023ba687-86a7-e018-674d-9ae5887715ed
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
+- identifier: 36bbae76-d1b8-a66f-1061-7015715889ed
+  name: Exams
+  pageRef: /pages/exams
+  weight: 90
