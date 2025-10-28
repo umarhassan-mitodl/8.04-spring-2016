@@ -4,8 +4,6 @@ description: ''
 file: /courses/8-04-quantum-physics-i-spring-2016/21a236c94640fce2eaac9565379c1c24_Ex_fFlwZoM0.srt
 file_size: 15797
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

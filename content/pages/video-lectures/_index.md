@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section includes a video of every class lecture.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
