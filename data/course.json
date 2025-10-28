@@ -23,8 +23,7 @@
     "website": "8-04-quantum-physics-i-spring-2016"
   },
   "course_title": "Quantum Physics I",
-  "hide_download": true,
-  "course_description": "This is the first course in the undergraduate Quantum Physics sequence. It introduces the basic features of quantum mechanics. It covers the experimental basis of quantum physics, introduces wave mechanics, Schr\u00f6dinger's equation in a single dimension, and Schr\u00f6dinger's equation in three dimensions. The lectures and lecture notes for this course form the basis of Zwiebach\u2019s textbook *Mastering Quantum Mechanics* published by\u00a0[MIT Press](https://mitpress.mit.edu/books/mastering-quantum-mechanics)\u00a0in April 2022.\n\nThis presentation of 8.04 by Barton Zwiebach (2016) differs somewhat and complements nicely the presentation of [Allan Adams (2013)](/courses/8-04-quantum-physics-i-spring-2013/). Adams covers a larger set of ideas; Zwiebach tends to go deeper into a smaller set of ideas, offering a systematic and detailed treatment. Adams begins with the subtleties of superpostion, while Zwiebach discusses the surprises of interaction-free measurements. While both courses overlap over a sizable amount of standard material, Adams discussed applications to condensed matter physics, while Zwiebach focused on scattering and resonances. The different perspectives of the instructors make the problem sets in the two courses rather different.",
+  "course_description": "This is the first course in the undergraduate Quantum Physics sequence. It introduces the basic features of quantum mechanics. It covers the experimental basis of quantum physics, introduces wave mechanics, Schr\u00f6dinger's equation in a single dimension, and Schr\u00f6dinger's equation in three dimensions. The lectures and lecture notes for this course form the basis of Zwiebach\u2019s textbook *Mastering Quantum Mechanics* published by\u00a0{{% resource_link \"dbc64d54-b406-4093-880d-afad56d0e0b8\" \"MIT Press\" %}}\u00a0in April 2022.\n\nThis presentation of 8.04 by Barton Zwiebach (2016) differs somewhat and complements nicely the presentation of [Allan Adams (2013)](/courses/8-04-quantum-physics-i-spring-2013/). Adams covers a larger set of ideas; Zwiebach tends to go deeper into a smaller set of ideas, offering a systematic and detailed treatment. Adams begins with the subtleties of superpostion, while Zwiebach discusses the surprises of interaction-free measurements. While both courses overlap over a sizable amount of standard material, Adams discussed applications to condensed matter physics, while Zwiebach focused on scattering and resonances. The different perspectives of the instructors make the problem sets in the two courses rather different.",
   "department_numbers": [
     "8"
   ],
@@ -34,7 +33,6 @@
     "content": "46c9e288-fc6c-91a1-d2a0-dca10ba03875",
     "website": "8-04-quantum-physics-i-spring-2016"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
